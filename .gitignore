@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Python caches
+**/__pycache__/
+*.py[cod]
+
+# Virtual environments
+.pvenv/
+.venv/
+venv/
+
+# Local app secrets and data
+proxyapp/.env
+proxyapp/db.sqlite3
