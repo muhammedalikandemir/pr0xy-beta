@@ -28,3 +28,4 @@ python manage.py runserver 127.0.0.1:8000
 ```
 
 Open `http://127.0.0.1:8000`.
+kandemirmuhammedali0@gmail.com
