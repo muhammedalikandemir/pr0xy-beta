@@ -18,6 +18,7 @@ EZPROXY is a local-first Django proxy app for testing and browsing target URLs t
 ![Login](docs/screenshots/login.png)
 ![Home (Authenticated)](docs/screenshots/home-auth.png)
 ![Proxied Example](docs/screenshots/proxy-example.png)
+![Access Logs (Admin)](docs/screenshots/access-logs.png)
 
 ## Run Locally
 ```bash
